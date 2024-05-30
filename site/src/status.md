@@ -2,9 +2,15 @@
 
 When you first create or duplicate an entry, it may be added to the Discovery Database with only blank information and a yellow "Incomplete" status tag. Incomplete entries may be missing required information, yet could still be referenced by other entries. Before the end of your semester, it is good practice to either fill in these Incomplete entries or delete them as appropriate.
 
+![Example screenshot of an Incomplete status tag](assets/Incomplete.png)
+
 Once an entry's required information has been filled in and its "Save" button clicked, it gets the green "Saved" status tag. This marks it as potentially ready for instructor review.
 
+![Example screenshot of a Saved status tag](assets/Saved.png)
+
 Once an instructor has reviewed an entry for completeness and accuracy, they may finalize it, a process described in the "Instructor Guide" section of this workshop. These entries get a blue "Finalized" status tag, which marks them as ready for Tiny Earth to export their information into the Tiny Earth Public Database.
+
+![Example screenshot of a Finalized status tag](assets/Finalized.png)
 
 !!! warning "Finalized Entries Cannot be Edited"
     Entries that have been given the blue "Finalized" status tag *cannot* be edited further by students.
