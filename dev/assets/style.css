@@ -22,6 +22,11 @@ p a, ol a, ul a:not(.tocitem), blockquote a {
   text-decoration: underline;
 }
 
+/* Fix the prev/next links touching at certain phone sizes */
+.docs-footer-nextpage {
+  padding-left: 1em;
+}
+
 /* Hide things when printing */
 @media print {
   .docs-sidebar, .docs-navbar, .docs-footer-prevpage, .docs-footer-nextpage {
