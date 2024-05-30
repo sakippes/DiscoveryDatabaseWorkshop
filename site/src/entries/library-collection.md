@@ -1,5 +1,7 @@
 # Library Collection
 
+TODO intro paragraph and how to begin to add
+
 !!! tip "Recommended: Create Isolates First"
     This entry type refers to both Environmental Samples and Isolates. Because it records information about the position, morphology, and other details of an isolate on a plate, it may be simpler to create those Isolates first, then return here to record information about them in relation to this plate.
 
@@ -16,3 +18,18 @@
 
     Then, when you record your information for this entry, upload the image under "Additional Notes" and reference the position numbers as needed when recording information about Isolates on this plate.
 
+## Use This Entry to Record
+
+- TODO
+
+## Required Information
+
+- TODO
+
+## Optional Information
+
+- TODO
+
+## Suggestions for "Additional Notes"
+
+- TODO
