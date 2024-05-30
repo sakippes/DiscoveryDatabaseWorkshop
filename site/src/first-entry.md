@@ -19,10 +19,10 @@ Whenever you create or edit your database entries, you'll be taken to a page wit
 
 To create an Environmental Sample entry, at minimum you will need to record:
 
-* A nickname for the sample
-* The date it was collected
-* The exact location it was collected
-* And the sample type, such as soil, water, or so on
+- A nickname for the sample
+- The date it was collected
+- The exact location it was collected
+- And the sample type, such as soil, water, or so on
 
 If your sample was collected from privately owned land, you will also need to attach a completed Private Donor Form.
 

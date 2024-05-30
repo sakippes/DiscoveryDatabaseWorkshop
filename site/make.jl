@@ -10,7 +10,7 @@ pages = process(YAML.load_file("site/toc.yaml"))
 
 # Compile the website
 makedocs(
-    sitename="DiscoveryDatabaseWorkshop",
+    sitename="Discovery Database Workshop",
     pages=pages,
     format=Documenter.HTML(
         assets=[

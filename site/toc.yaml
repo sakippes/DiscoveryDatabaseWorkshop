@@ -2,3 +2,18 @@
 - first-entry.md
 - coauthors.md
 - my-entries.md
+- status.md
+- Entry Types:
+  - entries/sample.md
+  - entries/dilution.md
+  - entries/library-collection.md
+  - entries/aa-screen-library.md
+  - entries/isolate.md
+  - entries/streak.md
+  - entries/aa-screen-isolate.md
+  - entries/microbio-char.md
+  - entries/rrna-analysis.md
+  - entries/antibio-suscept.md
+  - entries/eukaryotic.md
+  - entries/chemical-extract.md
+  - entries/aa-screen-extract.md
