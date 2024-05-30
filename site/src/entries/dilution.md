@@ -9,3 +9,10 @@
 
     Then once you've completed and saved your Isolates, return here.
 
+!!! tip "Recommended: Take a Picture"
+    For entry types like this one that record the position of an Isolate on a plate, it is recommended that you take a clear photo of your plate, then mark up the image as needed in simple photo editing software, such Microsoft Paint, Google Slides, or <https://jspaint.app/>.
+    
+    For each Isolate on the plate you are tracking, clearly number its position on the plate with a high-contrast font.
+
+    Then, when you record your information for this entry, upload the image under "Additional Notes" and reference the position numbers as needed when recording information about Isolates on this plate.
+
