@@ -1,3 +1,11 @@
-# DocumenterSiteTemplate
+# Getting Started
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+To get started, you will need to create an account on the Discovery Database.
+
+1. Visit <https://notebook.tinyearth.wisc.edu/registration/>
+2. Complete the form, filling in your name, display name, and email. Create a password you will use to log into the database, and input the Invitation Code you were given by your instructor
+3. Submit the form and await an activation email
+4. Click the link in the activation email to finish creating your account
+5. Visit <https://notebook.tinyearth.wisc.edu/> and log in -- let's begin!
+
+![Example screenshot of the registration form](assets/Registration.png)

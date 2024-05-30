@@ -10,7 +10,7 @@ pages = process(YAML.load_file("site/toc.yaml"))
 
 # Compile the website
 makedocs(
-    sitename="DocumenterSiteTemplate",
+    sitename="DiscoveryDatabaseWorkshop",
     pages=pages,
     format=Documenter.HTML(
         assets=[
@@ -21,5 +21,5 @@ makedocs(
     )
 )
 
-# Deploy the website - Edit this url!
-deploydocs(repo="github.com/Tiny-Earth/DocumenterSiteTemplate.git")
+# Deploy the website
+deploydocs(repo="github.com/Tiny-Earth/DiscoveryDatabaseWorkshop.git")
