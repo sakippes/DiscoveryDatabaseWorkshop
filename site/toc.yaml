@@ -1,9 +1,10 @@
-- index.md
-- first-entry.md
-- coauthors.md
-- my-entries.md
-- status.md
-- my-data.md
+- Student Guide:
+  - index.md
+  - first-entry.md
+  - coauthors.md
+  - my-entries.md
+  - status.md
+  - my-data.md
 - Entry Types:
   - entries/sample.md
   - entries/dilution.md
