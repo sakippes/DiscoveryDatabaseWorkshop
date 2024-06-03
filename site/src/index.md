@@ -2,7 +2,7 @@
 
 Welcome to the self-paced workshop for the Tiny Earth Discovery Database!
 
-The Discovery Database is new database for Tiny Earth students, instructors, and researchers to log their experiments and findings. It is an overhaul of the previous system, and it has been designed to be:
+The Discovery Database is the new database for Tiny Earth students, instructors, and researchers to log their experiments and findings. It is an overhaul of the previous system, and it has been designed to be:
 
 - Stable
 - Accessible
