@@ -34,9 +34,10 @@ You may also use the Additional Notes space to add any other information not cov
 
 Once you are done recording your Environmental Sample's information, click "Save" toward the top right of the form.
 
-Keep in mind that the database does not autosave. You will have to click save every time you create a new entry. 
-
-When you click save, you are making your work public to just yourself, your instructor, and your coauthors (if you have any). Your work will not be public to the world until your instructor has reviewed it. 
+!!! warning "Don't Forget to Save!"
+    Keep in mind that the database does not autosave. You will have to click save every time you create a new entry. 
+    
+    When you click save, you are making your work public to just yourself, your instructor, and your coauthors (if you have any). Your work will not be public to the world until your instructor has reviewed it. 
 
 You've just created your first entry in the database!
 
