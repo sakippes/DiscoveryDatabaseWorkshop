@@ -9,6 +9,20 @@ The Discovery Database is the new database for Tiny Earth students, instructors,
 - Learner-centered
 - And to reinforce the learning outcomes of Tiny Earth courses!
 
+## What is the Tiny Earth Discovery Database?
+  
+The Tiny Earth Discovery Database is a place for students to log all their data while conducting antibiotic discovery. 
+
+It is a resource that acts as a place of storage and communication for future research. 
+
+Students can compare and contrast their findings with research from their peers to expand on both discussion and future studies. 
+  
+Anyone can use the public data to analyze and inform their independent research. 
+
+The database also functions as a tool for the Tiny Earth Chemistry Hub (TECH) to signify which isolates may need further research. 
+
+It will allow them to analyze where high priority isolates are coming from and what conditions produce antibiotic activity. 
+
 ## Workshop
 
 In this workshop students will learn:
