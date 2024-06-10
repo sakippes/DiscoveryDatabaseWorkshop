@@ -60,6 +60,7 @@ Before beginning this workshop, students and instructors should be familiar with
     - Serial Dilution
     - Library Collection
     - Antibiotic Activity Screen
+    - Chemical Extraction
 - And the general steps of the Tiny Earth research flow
 
 ## Problems, Feedback, and Suggestions
