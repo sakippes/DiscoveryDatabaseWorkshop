@@ -8,7 +8,7 @@ To add coauthors, use the "Search for an author" field above the "Save" button w
 
 ![Screenshot showing a coauthor added to an entry](assets/Coauthors.png)
 
-To quickly see which of your entries you are a solo author on or have collaborators listed, visit your "My Data" page, accessible from <https://notebook.tinyearth.wisc.edu/>.
+To quickly see which of your entries you are a solo author on or have collaborators listed, visit your "My Data" page, accessible from <https://discovery.tinyearth.wisc.edu/>.
 
 We will talk more about the "My Data" table and its features later in this workshop, but it is good practice to review this table regularly to make sure your coauthors have been set properly -- don't want to duplicate work that others in your team have already entered!
 

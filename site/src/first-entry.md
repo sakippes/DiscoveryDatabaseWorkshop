@@ -1,6 +1,6 @@
 # Add Your First Entry
 
-To add your first entry, visit <https://notebook.tinyearth.wisc.edu/my-entries/>.
+To add your first entry, visit <https://discovery.tinyearth.wisc.edu/my-entries/>.
 
 Click the grey "Add New Entry" box to expand the available options.
 
@@ -11,7 +11,7 @@ The first entry you'll add is your Environmental Sample, to represent where you 
 Click "+ Environmental Sample" inside the "Add New Entry" box.
 
 !!! warning "Redirected Error"
-    If you receive an error saying you were "Redirected," the most likely cause is that your instructor has not added you to their classroom yet. To check your classroom status, visit <https://notebook.tinyearth.wisc.edu/my-account/classrooms/>.
+    If you receive an error saying you were "Redirected," the most likely cause is that your instructor has not added you to their classroom yet. To check your classroom status, visit <https://discovery.tinyearth.wisc.edu/my-account/classrooms/>.
     
     Once you have been added to a class you may continue.
 
