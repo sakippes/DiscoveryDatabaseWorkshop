@@ -13,7 +13,7 @@ Once an instructor has reviewed an entry for completeness and accuracy, they may
 ![Example screenshot of a Finalized status tag](assets/Finalized.png)
 
 !!! warning "Finalized Entries Cannot be Edited"
-    Entries that have been given the blue "Finalized" status tag *cannot* be edited further by students.
+    Entries that have been given the blue "Finalized" status tag *cannot* be edited further by students or instructors.
 
 Depending on how your instructor has structured their course, your entries may be finalized in steps throughout the semester or all at once at the end.
 
