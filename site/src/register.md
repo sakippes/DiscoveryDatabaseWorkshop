@@ -21,3 +21,4 @@ Instructors accounts have higher permissions, and are created by a Tiny Earth Ad
 1. Complete the form TODO. If you have problems or questions, reach out to TODO
 2. Once your instructor account has been created, you will receive an email from the Tiny Earth Admin
 3. Follow the instructions in that email to activate your instructor account
+4. The first time you login with your instructor account, [set your institution(s)](https://discovery.tinyearth.wisc.edu/my-account/my-institutions/). If your institution is not listed, please contact <TODO>
