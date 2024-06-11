@@ -10,7 +10,7 @@ Within your Sample's box, you can see the information you recorded, as well as a
 
 - View the entry's "Front Page," which we will talk about later in this workshop
 - Edit the entry's details
-- Create a duplicate of the entry TODO make clear that this is for reducing clicks, not duplicating an entry so both teammates have a copy, other not intended uses
+- Create a duplicate of the entry for when you need a new entry similar to an old one
 - And add new, different kinds of entries that reference this entry, such as Serial Dilution Plates and Isolates. More information about the various types of database entries are described in the "Entry Types" section of this workshop
 
 As you create additional entries and return to this page, you will notice that the boxes shown expand to illustrate which entries "contain," or are referenced by, which other entries. This can help you locate entries you are working with and visualize their relationships.
