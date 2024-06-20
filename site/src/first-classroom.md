@@ -9,6 +9,8 @@ TODO:
 - sensible slug, like `institution-department-coursenumber`
 - leave Parent/Main Classroom as None
 - Description will be shown on the data entries page for your classroom, viewable by assistants, students, and anyone else viewing the finalized entries of your classroom
+- classes in TEPI University are considered test classes and will be deleted
+- add screenshot of how the classroom appears at the bottom of the page, not in a new tab etc.
 
 !!! warning "Classrooms Can Only be Deleted by Admins"
     TODO instructors can't delete classrooms, only admins can, use Report Issue
