@@ -2,6 +2,8 @@
 
 To add your first entry, visit <https://discovery.tinyearth.wisc.edu/my-entries/>.
 
+![Screenshot of the navigation bar showing the "My Entries" link](assets/Navigation Bar.png)
+
 Click the grey "Add New Entry" box to expand the available options.
 
 ![Screenshot of Add New Entry box](assets/Add New Entry.png)
