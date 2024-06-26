@@ -1,8 +1,13 @@
 # Add Course Sections
 
-!!! warning "Page Under Development"
-    This portion of the Discovery Database is still under development. While this page of the workshop should serve to get you started, it may be out-of-date with the most recent version of the database itself.
+If you have a large course with several sections, you may wish to split your classroom data into sections to ease course management.
 
-TODO:
+To do this:
 
-- slug like `institution-department-coursenumber-sectionnumber`
+1. Visit [Manage Classes](https://discovery.tinyearth.wisc.edu/classroom-management/)
+2. Click "+ Create a new classroom" then "Add New Classroom." The same form you used to create your first classroom should appear
+3. Creating a course section follows the same process as creating a course, except:
+    - Set the "Main Classroom" to the main classroom that the section belongs to
+    - Include the section number in the slug, such as "uwmadison-plpath-145-001-sp23"
+
+When you add TAs and students, you may do so at the whole-course level or to individual sections. TAs and students will only be able to interact with information for the course or sections they are added to.

@@ -8,11 +8,15 @@
   - my-data.md
   - front-pages.md
 - Instructor Guide:
+  - instructor-setup.md
   - first-classroom.md
   - sections.md
   - assistants.md
   - students.md
+  - teaching.md
+  - viewing.md
   - finalizing.md
+  - deleting.md
 - Entry Types:
   - entries/sample.md
   - entries/dilution.md

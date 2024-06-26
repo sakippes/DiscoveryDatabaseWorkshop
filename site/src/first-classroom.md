@@ -1,16 +1,19 @@
 # Create Your First Classroom
 
-!!! warning "Page Under Development"
-    This portion of the Discovery Database is still under development. While this page of the workshop should serve to get you started, it may be out-of-date with the most recent version of the database itself.
+When you log in as an instructor, you will see a [Manage Classes](https://discovery.tinyearth.wisc.edu/classroom-management/) tab in your navigation bar that is not available to student accounts.
 
-TODO:
+To create your first classroom:
 
-- add yourself as an instructor and any co-instructors you may have
-- sensible slug, like `institution-department-coursenumber`
-- leave Parent/Main Classroom as None
-- Description will be shown on the data entries page for your classroom, viewable by assistants, students, and anyone else viewing the finalized entries of your classroom
-- classes in TEPI University are considered test classes and will be deleted
-- add screenshot of how the classroom appears at the bottom of the page, not in a new tab etc.
+1. Visit [Manage Classes](https://discovery.tinyearth.wisc.edu/classroom-management/)
+2. Click "+ Create a new classroom." You will be taken to an interface for managing the metadata (course names, dates, etc.) for all classes you are an instructor on. At this point, none should be listed so far
+3. Click "Add New Classroom." A form should appear on the page for entering your classroom's data
+4. Complete the form, leaving "Main Classroom" set to "None." If you have co-instructors or course observers, add them to the "Instructors" field. Please use a sensible, unique slug, such as "uwmadison-plpath-145-sp23" so that your course is easily identifiable among all other classrooms in the database
+5. Once you are satisfied with your classroom's information, click the "Add New Classroom" button at the bottom of the form. The classroom will now appear listed at the bottom of the page
+6. You can return to this page at any time to edit any of your classes' data
+
+![TODO alt text](assets/Add New Classroom.png)
 
 !!! warning "Classrooms Can Only be Deleted by Admins"
-    TODO instructors can't delete classrooms, only admins can, use Report Issue
+    To prevent classrooms from being deleted by accident that may contain troves of student discovery data, instructors are not able to delete classrooms, even those they create.
+
+    If you created a classroom but want it removed entirely, use the [Report Issue](https://discovery.tinyearth.wisc.edu/report-issue) link at the bottom of every database page.
