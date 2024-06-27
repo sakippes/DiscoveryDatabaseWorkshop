@@ -6,7 +6,7 @@ To add students:
 
 1. Instruct your students to create database accounts, using the student Invitation Code you were given by Tiny Earth HQ. We recommend you share the [Getting Started](register.md) page of this guide with your students, as it explains the process to them. If you do not have a valid Invitation Code to give your students, please contact <tinyearth@wid.wisc.edu>
 2. Once your students have made their accounts, visit [Manage Classes](https://discovery.tinyearth.wisc.edu/classroom-management/)
-3. If you have multiple classes or sections, select the class you want to add TAs to from the dropdown
+3. If you have multiple classes or sections, select the class/section you want to add TAs to from the dropdown
 4. Under "Add to Classroom," enter the email addresses your students used to create their accounts, separated by commas
 5. Click "Add as Students"
 

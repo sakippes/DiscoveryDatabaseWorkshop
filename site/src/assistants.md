@@ -8,7 +8,7 @@ To add TAs:
 
 1. Instruct your TAs to create database accounts, following the same process and using the same Invitation Code as your students. We recommend you share the [Getting Started](register.md) page of this guide with your TAs, as it explains the process to them. If you do not have a valid Invitation Code to give your TAs, please contact <tinyearth@wid.wisc.edu>
 2. Once your TAs have made their accounts, visit [Manage Classes](https://discovery.tinyearth.wisc.edu/classroom-management/)
-3. If you have multiple classes or sections, select the class you want to add TAs to from the dropdown
+3. If you have multiple classes or sections, select the class/section you want to add TAs to from the dropdown
 4. Under "Add to Classroom," enter the email addresses your TAs used to create their accounts, separated by commas
 5. Click "Add as Assistants"
 
