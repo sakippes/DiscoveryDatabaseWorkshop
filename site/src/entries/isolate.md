@@ -8,7 +8,7 @@ TODO intro paragraph and how to begin to add
 
 ## Required Information
 
-- TODO
+- As mentioned elsewhere, it is best to start by entering your individual isolates and then going back and adding any additional information you were able to gather about them. 
 
 ## Optional Information
 
