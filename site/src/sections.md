@@ -1,6 +1,6 @@
 # Add Course Sections
 
-If you have a large course with several sections, you may wish to split your classroom data into sections to ease course management.
+If you have a large course with several sections, you may wish to split your classroom data into sections to ease course management. Otherwise, you may skip this step.
 
 To do this:
 

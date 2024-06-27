@@ -1,0 +1,15 @@
+# Entry Types
+
+- [Environmental Sample](sample.md)
+- [Serial Dilution Plate](dilution.md)
+- [Library Collection](library-collection.md)
+- [Antibiotic Activity Screen: Library](aa-screen-library.md)
+- [Isolate](isolate.md)
+- [Streak Plate](streak.md)
+- [Antibiotic Activity Screen: Isolate](aa-screen-isolate.md)
+- [Microbiological Characterization](microbio-char.md)
+- [16S rRNA Gene Analysis](rrna-analysis.md)
+- [Antibiotic Susceptibility Test](antibio-suscept.md)
+- [Eukaryotic Test](eukaryotic.md)
+- [Chemical Extraction](chemical-extract.md)
+- [Antibiotic Activity Screen: Extract](aa-screen-extract.md)
