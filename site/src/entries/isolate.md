@@ -15,7 +15,7 @@ TODO intro paragraph and how to begin to add
 
 ## Optional Information
 
--TODO
+-The isolate page has many branches of further information to add via more entries. For this reason, there is no optional information that students choose to add. If you have more information you want looged directly with your isolate, feel free to add it via the text box at the bottom. Here you can add text, links, and photos to your entry. 
 
 ## Suggestions for "Additional Notes"
 
