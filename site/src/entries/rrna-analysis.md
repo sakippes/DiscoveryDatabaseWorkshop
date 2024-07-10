@@ -8,7 +8,7 @@ TODO intro paragraph and how to begin to add
 
 ## Required Information
 
-- **Date:** The date the plate was first created.
+- **Date:** The date the 16S rRNA was first tested. 
 - **Genus:** You can get the name of the genus from NCBI Blast. A drop-down list will appear when you click on the box. You can either scroll through the list or search for the genus. Be sure to confirm with your instructor that you are adding the correct genus. 
 
 ## Optional Information
