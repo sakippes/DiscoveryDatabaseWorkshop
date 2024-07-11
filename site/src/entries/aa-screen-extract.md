@@ -9,7 +9,7 @@ TODO intro paragraph and how to begin to add
 ## Required Information
 
 - **Date:** The date the plate was first created.
-- **Screens:** At the bottom of the page, you will be prompted to select the ESKAPE safe relative that you are screening against and whether or not antibiotic activity was observed. If you are screening against multiple ESKAPE safe relatives, you should create a new entry for each screening. 
+- **Screens:** At the bottom of the page, you will be prompted to select the ESKAPE safe relative that you are screening against and whether or not antibiotic activity was observed. If you are screening against multiple ESKAPE safe relatives, you should create a new row for each screening. You are also prompted to list what kind of activity was observed. 
 
 ## Optional Information
 
