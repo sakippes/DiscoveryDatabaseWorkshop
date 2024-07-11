@@ -20,7 +20,7 @@ The very first step of the Tiny Earth research flow is to collect your Environme
 
 ## Optional Information
 
-- **Site Description:** `TODO`
+- **Site Description:** Provide details of the soil, weather, and other conditions affecting the tested site. See your professor for clarification on what details should be included.
 - **Air Temperature** and **Air Humidity:** The temperature (in Celsius) and the humidity of the weather at the time your sample was collected. In most cases, students use their phones to record these weather conditions while collecting their samples
 - **Sample Temperature** and **Sample pH:** The temperature (in Celsius) of the sample at the time it was collected and the pH of the sample measured in the lab. For best precision, bring a thermometer with you as you collect your sample, and follow your instructor's instructions to test the pH of the sample in your course's lab
 - **Soil Type**, **Depth**, and **Water Content:** The type of soil, the depth the sample was collected from it, and the water content in the soil at the time it was collected. Only enter these if your Sample Type is "Soil." To determine the Soil Type, you may follow a [soil texture by feel guide](https://mff.forest.mtu.edu/ActivityLibrary/SoilTexture.htm) or use your instructor's method. For best precision to measure Depth, bring a ruler with you as you collect your sample. And follow your instructor's instructions to weigh the water content of your soil in your course's lab
