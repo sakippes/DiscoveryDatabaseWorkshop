@@ -12,11 +12,6 @@ TODO intro paragraph and how to begin to add
 - **Date:** The date the isolate was first created.
 - **Sample:** The environmental sample that was used to create this plate. This field is automatically populated for you if you click "add isolate" under an existing sample. If a teammate created the Environmental Sample entry, make sure that they have added you as a co-author so you may refer to it on your plates and isolates. 
 
-
-## Optional Information
-
--TODO
-
 ## Suggestions for "Additional Notes"
 
 - TODO
